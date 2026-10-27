@@ -5,7 +5,7 @@
 **ADR**: ADR-2605263400 (R0 scaffold)
 **Status**: R0 scaffold (2026-05-26) — 6 cells path-reserved + 5 Lexicon skeletons
 **TIGHT PAIR**: chigiri (chigiri.covenant_ceremony cell explicit cross-actor at R2)
-**Canonical repository**: `etzhayyim/actor-musubi`
+**Canonical repository**: `cloud-itonami/actor-musubi`
 
 ## Overview
 
