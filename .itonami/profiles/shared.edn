@@ -7,6 +7,6 @@
  :profile/id "actor-musubi"
  :profile/default? true
  :bot/name "actor-musubi"
- :bot/brief "etzhayyim/actor-musubi の常駐 actor。charter に従って行動する。"
- :bot/context-refs [{:kind "repo" :target "etzhayyim/actor-musubi"}]
+ :bot/brief "cloud-itonami/actor-musubi の常駐 actor。charter に従って行動する。"
+ :bot/context-refs [{:kind "repo" :target "cloud-itonami/actor-musubi"}]
  :bot/tools-requested []}
